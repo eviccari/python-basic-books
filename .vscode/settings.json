@@ -1,0 +1,11 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[python]": {
+    "editor.defaultFormatter": null
+  },
+  "python.formatting.blackArgs": ["--line-length", "72"],
+  "python.formatting.provider": "black",
+  "java.completion.enabled": false,
+  "java.debug.settings.enableRunDebugCodeLens": false,
+  "java.test.editor.enableShortcuts": false
+}
